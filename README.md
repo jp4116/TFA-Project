@@ -1,4 +1,4 @@
-# TFA-Project_1
+# TFA-Project
 Final Project
 Members: 
 Harshvardhan Uttarwar (hsu2101), 
